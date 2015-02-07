@@ -1,7 +1,7 @@
 # learnGitHub
 
 <h2>This project is to learn how to use git hub and include:</h2>
-	<ul>	
+<ul>	
 		<li>Using termainal (Power Shell)</li>
 		<li>Cloning to the computer</li>
 		<li>Uploading a file to the repository</li>
